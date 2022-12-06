@@ -1,0 +1,96 @@
+#EXTM3U
+#EXTINF:0,hola tv
+#EXTGRP:TV
+https://live.atresmediainternacional.com:443/ATRESMEDIA/holatv-1080.m3u8
+#EXTINF:0,RT Español
+#EXTGRP:TV
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:0,24 Horas
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:0,euronews
+#EXTGRP:TV
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,telesur
+#EXTGRP:TV
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:0,estrella tv
+#EXTGRP:TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:0,novelas en familia
+#EXTGRP:TV
+https://d31faiqgbicbr8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yobrysbthi0p4-prod/dist/samsungtv/195/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7vice_dnt=de%7BPSID%7vice_dnt=de 7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:0,movie network my time
+#EXTGRP:TV
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8}
+#EXTINF:0,my time
+#EXTGRP:TV
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:0,amx noticias
+#EXTGRP:TV
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:0,telemax
+#EXTGRP:TV
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
+#EXTINF:0,tu cine
+#EXTGRP:TV
+https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
+#EXTINF:0,CINE REAL
+#EXTGRP:TV
+https://cinereal-plex.amagi.tv/CineReal/master.m3u8
+#EXTINF:0,"CINE", JUNTOS
+#EXTGRP:TV
+https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
+#EXTINF:0,CINE SUREÑO
+#EXTGRP:TV
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
+#EXTINF:0,TOP CINE
+#EXTGRP:TV
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+#EXTINF:0,"CINE", CHIQUITINES
+#EXTGRP:TV
+https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
+#EXTINF:0,A3CINE II
+#EXTGRP:TV
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
+#EXTINF:0,unicanal py
+#EXTGRP:TV
+http://45.55.127.106/live/unicanal_src.m3u8
+#EXTINF:0,canal 8 costa rica
+#EXTGRP:TV
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:0,microvision
+#EXTGRP:TV
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+#EXTINF:0,el trece ar
+#EXTGRP:TV
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:0,Dan Tv
+#EXTGRP:TV
+http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
+#EXTINF:0,central tv
+#EXTGRP:TV
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:0,rakuten tv
+#EXTGRP:TV
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:0,rakuten tv comedias
+#EXTGRP:TV
+https://rakuten-comedymovies-2-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:0,raku tv drama
+#EXTGRP:TV
+https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,raku familia
+#EXTGRP:TV
+https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,F peluche
+#EXTGRP:TV
+https://linear-311.frequency.stream/dist/localnow/311/hls/master/playlist.m3u8
+#EXTINF:0,vecinos
+#EXTGRP:TV
+https://linear-314.frequency.stream/dist/localnow/314/hls/master/playlist.m3u8
+#EXTINF:0,como dice el dicho
+#EXTGRP:TV
+https://linear-341.frequency.stream/dist/localnow/341/hls/master/playlist.m3u8
+
+
+
